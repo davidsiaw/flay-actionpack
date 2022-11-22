@@ -18,6 +18,6 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "flay", ">= 1.2", "< 3"
-  spec.add_development_dependency "actionpack", ">= 7"
+  spec.add_development_dependency "actionpack", ">= 6"
   spec.add_development_dependency "rake"
 end
